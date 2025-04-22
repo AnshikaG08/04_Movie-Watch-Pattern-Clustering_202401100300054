@@ -1,1 +1,4 @@
-# 04_Movie-Watch-Pattern-Clustering_202401100300054
+This code performs two main tasks: K-Means clustering and Logistic Regression classification. First, it clusters users based on their watch_time_hour, avg_rating_given, and genre preferences using K-Means, followed by visualizing the cluster centroids and evaluating the clustering quality with a Silhouette Score. Then, it classifies users into genre categories using logistic regression, training the model on watch_time_hour and avg_rating_given, and evaluates the performance through a confusion matrix and classification report. The goal is to analyze user behavior and genre preferences, providing insights into their viewing patterns and predictive accuracy.
+![image](https://github.com/user-attachments/assets/ee28d200-91b4-4181-b51c-2ab71c0445d9)
+![image](https://github.com/user-attachments/assets/6e6239fd-7aac-46d7-b716-78d111d43800)
+![image](https://github.com/user-attachments/assets/e490ce65-bc8f-4886-a3f6-77c2ba3a4d98)
